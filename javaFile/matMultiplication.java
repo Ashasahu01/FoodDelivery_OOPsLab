@@ -30,7 +30,7 @@ public
                 
     
                 }
-                System.out.print(Mult[i][j] + " ");
+                System.out.print(Mult[i][j] + " "); //displaying while multiplying the elements
             }
             System.out.println();
         }
